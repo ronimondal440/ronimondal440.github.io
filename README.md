@@ -4,7 +4,7 @@
 
 This site includes:
 - My resume and professional experience in application impact analysis, cyber resiliency, and automation.
-- Personal projects such as building an end-to-end pipeline to process and analyze **Bank Transaction Fraud Detection Data Pipeline**, **Stock Market Sentiment Analysis** using LSTM & Streamlit, and a full-stack **Online Car Rental System**.
+- Personal projects such as building an end-to-end pipeline to process and analyze **Bank Transaction Fraud Detection**, **Stock Market Sentiment Analysis** using LSTM & Streamlit, and a full-stack **Online Car Rental System**.
 - Skills in **Power BI**, **SQL**, **Python**, **Tableau**, **PowerApps**, and more.
 
 🔗 **Live Site**: [ronimondal440.github.io](https://ronimondal440.github.io)
